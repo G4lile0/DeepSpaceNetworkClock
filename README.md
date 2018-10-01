@@ -1,7 +1,7 @@
 # DeepSpaceNetworkClock
 NASA / JPL (DSN) Deep Space Clock, currently focus on the fate of the Opportunity rover, great for space lover.
 <h1 lang="en-US" class="western">Deep Space Network Clock</h1>
-<p lang="en-US" style="margin-bottom: 0cm; line-height: 100%"><img src="./image/DSN_Clock.jpg" name="Imagen4" align="left" width="643" height="482" border="0"/>
+<p lang="en-US" style="margin-bottom: 0cm; line-height: 100%"><img src="./images/DSN_Clock.jpg" name="Imagen4" align="left" width="643" height="482" border="0"/>
 </p>
 <p lang="en-US" style="margin-bottom: 0cm; line-height: 100%">At the
 beginning of June, due the great dust storm contact with Rover
@@ -42,5 +42,5 @@ this project will surely interest you :)</p>
 </p>
 
 
-<p lang="en-US" style="margin-bottom: 0cm; line-height: 100%"><img src="./image/Opportunity.jpg" name="Imagen3" align="left" width="320" height="240" border="0"/>
+<p lang="en-US" style="margin-bottom: 0cm; line-height: 100%"><img src="./images/Opportunity.jpg" name="Imagen3" align="left" width="320" height="240" border="0"/>
 <br/>
