@@ -79,7 +79,7 @@ into hibernation.</p>
 </p>
 <p lang="en-US" style="margin-bottom: 0cm; line-height: 100%">The
 storm was one of several that stirred up enough dust to enshroud most
-of the Red Planet, and  beggin to dissipate the end of August, since
+of the Red Planet, and began to dissipate the end of August, since
 then the NASA antennas point to the Rover several times a day waiting
 for an Opportunity's answer.</p>
 <p lang="en-US" style="margin-bottom: 0cm; line-height: 100%"><br/>
